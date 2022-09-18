@@ -1,12 +1,17 @@
 ![my brand](https://i.imgur.com/lqX5J82.gif)
+<br>
+<br>
 <h3 style="font-weight:bold"><em>The world had led you to me.. Or perhaps I was led to find you by the world.</em>
-</h3>
+</h3><br>
+<br>
 
 [![Linkedin: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyrus-baybay-69a809175/)](https://www.linkedin.com/in/cyrus-baybay-69a809175/)
 [![Instagram: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-pink?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/cyrusbaebae/)](https://www.instagram.com/cyrusbaebae/)
 [![Twitter: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-lightblue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/CyrusBaebae)](https://twitter.com/CyrusBaebae)
 
-### Hi I'm Cyrus 👋 I do Full Stack Development
+<h2 style="font-weight:bold"> Hi I'm Cyrus 👋 I do Full Stack Development<img src="https://media3.giphy.com/media/vzY5lE13aErsxmmeQx/giphy.gif?cid=790b761143788319a5b7b8418859a5de656da442dffc05df&rid=giphy.gif&ct=s" width="108" height="108"></h2>
+<br>
+<br>
 
 ```javascript
 let Cyrus = {
@@ -14,7 +19,7 @@ let Cyrus = {
   code: [Javascript, HTML, CSS, Swift, Python, C++],
   tools: [React, Node, Figma, Firebase, AWS],
   university: "Cal State Fullerton 🐘",
-  hobbies: [gym, piano, hiking, guitar, volleyball, waterpolo],
+  hobbies: [🏋️gym, 🎹piano, 🚶‍♂️hiking, 🎸guitar, 🏐volleyball, 🤽waterpolo, 🎱pool, 🎮video_games],
   passionateAbout: {
                         software: "engineering",
                         full-stack: "development,
@@ -23,12 +28,17 @@ let Cyrus = {
                     },
 }
 ```
+<br>
 
 <h3 style="font-weight:bold">📫 Reach out to me!</h3>
 <ul>
-<li>💌 You can contact me at<a href="mailto:cyrusb10@gmail.com">cyrusb10@gmail.com</a></li>
+<li>💌 You can contact me at <a href="mailto:cyrusb10@gmail.com">cyrusb10@gmail.com</a></li>
 <li>📱 You can also DM me on any of the social media's above!</li>
 </ul>
+<br>
+<br>
+
+<h3 style="font-weight:bold">🤝Nice to meet you and Thanks for reading! </h3>
 
 
 <!--
