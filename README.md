@@ -9,7 +9,7 @@
 [![Instagram: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-pink?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/cyrusbaebae/)](https://www.instagram.com/cyrusbaebae/)
 [![Twitter: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-lightblue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/CyrusBaebae)](https://twitter.com/CyrusBaebae)
 
-<h2 style="font-weight:bold"> Hi I'm Cyrus 👋 I do Full Stack Development<img src="https://media3.giphy.com/media/vzY5lE13aErsxmmeQx/giphy.gif?cid=790b761143788319a5b7b8418859a5de656da442dffc05df&rid=giphy.gif&ct=s" width="108" height="108"></h2>
+<h2 style="font-weight:bold"> Hi I'm Cyrus 👋 I do Full Stack Development <img src="https://media3.giphy.com/media/vzY5lE13aErsxmmeQx/giphy.gif?cid=790b761143788319a5b7b8418859a5de656da442dffc05df&rid=giphy.gif&ct=s" width="40" height="40"></h2>
 <br>
 <br>
 
