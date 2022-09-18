@@ -1,6 +1,7 @@
 ### Hi I'm Cyrus 👋 I do Full Stack Development
-[![Linkedin: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyrus-baybay-69a809175/)](https://www.linkedin.com/in/cyrus-baybay-69a809175/)
-
+[![Linkedin: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyrus-baybay-69a809175/)](https://www.linkedin.com/in/cyrus-baybay-69a809175/)
+[![Instagram: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-pink?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/cyrusbaebae/)](https://www.instagram.com/cyrusbaebae/)
+[![Twitter: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-lightblue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/CyrusBaebae)](https://twitter.com/CyrusBaebae)
 
 <!--
 **TRA3H/TRA3H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
