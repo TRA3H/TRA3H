@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Cyrus 👋 I do Full Stack Development
+[![Linkedin: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyrus-baybay-69a809175/)](https://www.linkedin.com/in/cyrus-baybay-69a809175/)
+
 
 <!--
 **TRA3H/TRA3H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
