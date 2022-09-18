@@ -1,4 +1,4 @@
-![my brand](https://media3.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=ecf05e47iup3yihkqgnd0xezesg3czae3a657tcnrjd9odns&rid=giphy.gif&ct=g)
+![my brand](https://i.imgur.com/lqX5J82.gif)
 
 [![Linkedin: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyrus-baybay-69a809175/)](https://www.linkedin.com/in/cyrus-baybay-69a809175/)
 [![Instagram: Cyrus Baybay](https://img.shields.io/badge/-Cyrus_Baybay-pink?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/cyrusbaebae/)](https://www.instagram.com/cyrusbaebae/)
