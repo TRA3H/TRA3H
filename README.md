@@ -1,7 +1,7 @@
 ![my brand](https://i.imgur.com/lqX5J82.gif)
 <br>
 <br>
-<h3 style="font-weight:bold"><em>Either be another floating particle in the universe or risk it all; be a Menace</em>
+<h3 style="font-weight:bold"><em>Either be another floating particle in the universe or risk it all — be a Menace.</em>
 </h3><br>
 <br>
 
