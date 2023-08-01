@@ -38,8 +38,9 @@ let Cyrus = {
 <br>
 <br>
 
+<!--
 [![Cyrus Traeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRA3H)](https://github.com/TRA3H/github-readme-stats)
-
+-->
 
 <h3 style="font-weight:bold">🤝Nice to meet you and Thanks for reading! </h3>
 
