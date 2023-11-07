@@ -24,7 +24,6 @@ let Cyrus = {
                         software: "engineering",
                         full-stack: "development,
                         machine: "learning & A.I",
-                        Web3: "blockchain"
                     },
 }
 ```
