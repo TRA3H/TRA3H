@@ -7,7 +7,7 @@
 
 
 
-<h2 style="font-weight:bold"> Hi I'm Cyrus 👋 I do Full Stack Development <img src="https://media3.giphy.com/media/vzY5lE13aErsxmmeQx/giphy.gif?cid=790b761143788319a5b7b8418859a5de656da442dffc05df&rid=giphy.gif&ct=s" width="40" height="40"></h2>
+<h2 style="font-weight:bold"> Hi I'm Cyrus <img src="https://media3.giphy.com/media/vzY5lE13aErsxmmeQx/giphy.gif?cid=790b761143788319a5b7b8418859a5de656da442dffc05df&rid=giphy.gif&ct=s" width="40" height="40"></h2>
 <br>
 <br>
 
